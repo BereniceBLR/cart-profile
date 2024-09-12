@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+@import url(https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap);
 
   /* --------------------------------------------------------------------
   
@@ -13,11 +13,11 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
-      --font: "Open Sans", Helvetica, sans-serif;
+      --color-lightest: #dfdecdf5;
+      --color-light: #9eb591d6;
+      --color: #40513e;
+      --color-dark: #52705268;
+      --font: "Baskervville SC", Helvetica, sans-serif;
   }
 
   /* -------------------------------------------------------------------
